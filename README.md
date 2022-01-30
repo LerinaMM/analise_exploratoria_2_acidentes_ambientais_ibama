@@ -1,0 +1,2 @@
+# analise_exploratoria_2_acidentes_ambientais_ibama
+Foi realizada a Análise exploratória sobre as comunicações de acidentes ambientais registradas no Sistema Nacional de Emergências Ambientais (Siema), instituído pela Instrução Normativa nº 15, de 6 de outubro de 2014.  O Siema constitui ferramenta informatizada de comunicação de acidentes ambientais, visualização de mapas interativos e geração de dados estatísticos dos acidentes ambientais registrados pelo Ibama.
